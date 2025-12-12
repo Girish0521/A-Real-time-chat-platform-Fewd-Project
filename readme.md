@@ -43,8 +43,8 @@ chat-app-node/
 1. Clone the repository
 
 bash
-git clone https://github.com/Girish0521/ChatSphere.git
-cd ChatSphere
+git clone https://github.com/Girish0521/chat-app-node.git
+cd chat-app-node
 
 2. Install dependencies
 
