@@ -55,7 +55,7 @@ npm install
 
 bash
 npm run dev    # With auto-reload (nodemon)
-# OR
+
 npm start      # Production
 
 4. Open in browser
